@@ -1,6 +1,6 @@
 # QAL Lite
 
-QAL Lite 0.9.2 is the publicly-available, free, and lightweight version of QAL 0.9.2.
+**QAL Lite 0.9.2** is the publicly-available, free, and lightweight version of QAL 0.9.2.
 
 **QAL** (Quantum Algorithms Lab) is an innovative visual interactive web app for *teaching* and *researching* quantum algorithms and quantum informatics, as well as related mathematical fields such as linear algebra and group theory.
 
