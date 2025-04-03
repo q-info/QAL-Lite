@@ -14,4 +14,4 @@ Besides quantum computing, the math nicely presented in QAL has applications in 
 
 For what&lsquo;s new in this version of QAL Lite, check the `What's New` page of `QAL Help`. QAL also has a fledgling `QAL User Guide` that you may like to check in `QAL Help`.
 
-QAL Lite is currently hosted on GitHub, and is hosted and accessible also from [here](http://eng.staff.alexu.edu.eg/staff/moez/QAL/Lite).
+QAL Lite is currently hosted on GitHub, and is also hosted and accessible from [here](http://eng.staff.alexu.edu.eg/staff/moez/QAL/Lite).
