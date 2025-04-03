@@ -12,6 +12,6 @@ As to teaching math in particular, QAL aims to teach the concepts of linear alge
 
 Besides quantum computing, the math nicely presented in QAL has applications in machine learning and AI, computer graphics, cybersecurity, and many other mathematical sciences.
 
-For what&lsquo;s new in this version of QAL Lite, check the `What&lsquo;s New` page of `QAL Help`. QAL also has a fledgling `QAL User Guide` that you may like to check in `QAL Help`.
+For what&lsquo;s new in this version of QAL Lite, check the `What's New` page of `QAL Help`. QAL also has a fledgling `QAL User Guide` that you may like to check in `QAL Help`.
 
 QAL Lite is currently hosted on GitHub, and is hosted and accessible also from [here](http://eng.staff.alexu.edu.eg/staff/moez/QAL/Lite).
