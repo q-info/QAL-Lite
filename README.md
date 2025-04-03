@@ -1,5 +1,6 @@
+<!---
 (Feeling adventurous? Want to save your quantum algorithms to local QAL files and to open QAL files developed by others? Want to use &lsquo;controlled gates&rsquo; and &lsquo;swap gates&rsquo; directly in your quantum algorithms? ... You may like to check [QAL Lite 0.9.5alpha](https://q-info.github.io/QAL-Lite-0.9.5alpha), the latest development version of QAL Lite, available [here](https://q-info.github.io/QAL-Lite-0.9.5alpha).)
-
+--->
 # QAL Lite
 
 **QAL Lite 0.9.2** is the publicly-available, free, and lightweight version of **QAL 0.9.2**.
